@@ -6,6 +6,7 @@ I created a random password generator based on the criteria needed to suceed for
 <img src="./assets/css/images/screenshot.png" width="300" height="200">
 
 ## Link 
+https://ysafernandez.github.io/password-generator/
 
 ## Credits
 Credits to: https://github.com/coding-boot-camp/friendly-parakeet
