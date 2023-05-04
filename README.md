@@ -10,4 +10,6 @@ I created a random password generator based on the criteria needed to suceed for
 ## Credits
 Credits to: https://github.com/coding-boot-camp/friendly-parakeet
 ## License 
-Please refer to the LICENSE in the repo. 
+
+Please refer to the license in the repo. 
+
